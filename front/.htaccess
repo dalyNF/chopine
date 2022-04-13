@@ -1,0 +1,4 @@
+Header set Access-Control-Allow-Origin: https://https://simplistic-paper.surge.sh/
+Header set Access-Control-Allow-Origin: http://localhost:9000
+
+DirectoryIndex index.html
